@@ -1,6 +1,6 @@
-# I wrote this blog as a simple demonstration 
+# Simple PHP MySQL blog with voting and WYSIWYG editor
 
-therefore it shouldn't be used in a real world application. <br /> 
+Therefore it shouldn't be used in a real world application. <br /> 
 
 Email: demo@website.com <br /> 
 Password: demo <br /> 

@@ -1,4 +1,6 @@
-# I wrote this blog as a simple demonstration on how to do it, therefore it shouldn't be used in a real world application.
+# I wrote this blog as a simple demonstration 
 
-Email: demo@website.com
-Password: demo
+therefore it shouldn't be used in a real world application. <br /> 
+
+Email: demo@website.com <br /> 
+Password: demo <br /> 
